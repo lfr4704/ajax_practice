@@ -1,5 +1,5 @@
  $(document).ready(function(){ 
     $("#generate").click(function(){ 
-      $("#quote p").load("../script.php"); 
+      $("#quote p").load("script.php"); 
     }); 
   }); 
